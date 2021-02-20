@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="welcome">Welcome</string>
+    <string name="expand">Expand</string>
+    <string name="collapse">Collapse</string>
+    <string name="top_artist">Top Artists</string>
+    <string name="playcount">%s\nPlayCount</string>
+    <string name="follower">%s\nFollowers</string>
+</resources>
