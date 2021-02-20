@@ -5,6 +5,7 @@ MusicWiki is an unofficial Last.fm app that contains information about different
 the albums, artists and tracks listed under the genre.
 
 Specs for MusicWiki
+
 ● Display the list of genres available. Genres are called tags in LastFm api. The list will
 initially contain top 10 genres and when the user clicks on the expand button the entire
 list is shown in the same screen.
@@ -51,5 +52,7 @@ You can get more information at https://www.last.fm/api
 
 
 Architecture - MVVM
+
 Design Patterns - Singleton, MVVM, Facade, Dependency Injection(Hilt-Dagger), Observer
+
 Jetpack - LiveData, Kotlin Flow, ListAdapter, Coroutines, Kotlin Serialization, Material Design, View Binding, Data Binding, View Model, Retrofit, Coil(Image loading)
